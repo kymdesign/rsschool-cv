@@ -31,10 +31,10 @@
 	Adobe Acrobat Professional
 	InDesign
 
-    Braimbench certificates (id 2306544):
-	Photoshop
-	Illustrator
-	Coreldraw
+    Brainbench certificates (id 2306544):
+	Photoshop (december 14, 2000)
+	Illustrator (december 22, 2000)
+	Coreldraw (december 12, 2000)
 
     English
 	A2 Pre-Intermediate
